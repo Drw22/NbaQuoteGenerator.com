@@ -1,8 +1,8 @@
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', serif;
     font-size: 25px;
     color: rgb(255, 255, 255);
-    background-image: url("nba.jpg");
+    background-image: url("kobe.jpg");
     height: 1500px;
     background-position: center;
     background-repeat: no-repeat;
